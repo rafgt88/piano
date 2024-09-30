@@ -73,11 +73,11 @@ function keyTouch(pressed){
             audio.play()
                 break;
                 case "C2":
-        var audio =new Audio(".c2.mp3");
+        var audio =new Audio("./c2.mp3");
             audio.play()
             break;
         case "c#2":
-            var audio =new Audio(".cnot2.mp3");
+            var audio =new Audio("./cnot2.mp3");
             audio.play()
         break;
         case "D2":
